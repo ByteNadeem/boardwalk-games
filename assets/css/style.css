@@ -26,7 +26,21 @@ h3 {
 .sub-heading-color {
     color: var(--highlight-color);
 }
-    .contatiner,
+
+
+/* Navbar */
+#navbar {
+    background-color: var(--primary-color);
+    
+}
+#navbar .logo {
+    width:30px;
+}
+
+
+
+/* grid visualization CSS for testing*/
+   /* .contatiner,
     .row { 
         border: 2px solid black
     }
@@ -34,3 +48,4 @@ h3 {
         border: 2px solid white;
         background-color:lightgray;
     }
+        */
