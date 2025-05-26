@@ -70,6 +70,12 @@ h2 {
    
 }
 
+/*Game library*/
+#new-games .card,
+#fav-games .card {
+    border:none;
+}
+
 
 
 /* grid visualization CSS for testing*/
